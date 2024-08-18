@@ -13,3 +13,8 @@ h3{
 ul{
     color: rgb(0, 95, 95);
 }
+
+.description {
+    font-size: 1.2rem;
+    text-shadow: 1px 1px 0px green;
+}
