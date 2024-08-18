@@ -1,3 +1,15 @@
+*{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
 h1 {
-    color: lightgreen;
+    color: rgb(0, 73, 0);
+}
+
+h3{
+    color:maroon;
+}
+
+ul{
+    color: rgb(0, 95, 95);
 }
